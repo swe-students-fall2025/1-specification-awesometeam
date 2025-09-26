@@ -4,7 +4,11 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+- [JunHao Chen](https://github.com/JunHaoChen16)
+- [Maria Luo](https://github.com/MariaLuo826)
+- [Ivan Huang](https://github.com/Ivan-Wang-tech)
+- [qiexian-mf](https://github.com/qiexian-mf)
+- [Serena](https://github.com/serena0615)
 
 ## Stakeholders
 
