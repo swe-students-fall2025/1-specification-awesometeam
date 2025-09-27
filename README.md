@@ -41,11 +41,13 @@ Our vision is to design a mobile app that helps travelers plan multi-day trips b
 
 1. As a business traveler, I want quick sightseeing options near my meeting locations so that I can use my free hours effectively.
 2. As a retired traveler on a limited budget, I want the app to suggest affordable attractions and transport options so that I can enjoy my trip without overspending. 
+3. As a savvy traveler, I want the app to suggest the most cost-efficient hotels for my trip and show me all possible reward activities so that I can maximize savings and benefits.
 
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+This is the diagram of the third user requirement: "As a savvy traveler, I want the app to suggest the most cost-efficient hotels for my trip and show me all possible reward activities so that I can maximize savings and benefits."
+![Diagram 1](img/swe_project1_img1.png)
 
 ## Clickable Prototype
 
