@@ -51,4 +51,4 @@ This is the diagram of the third user requirement: "As a savvy traveler, I want 
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+[clickable prototype] (https://www.figma.com/design/sA0vzezLxU3Zei5LZVRHD9/WireFrame-Diagram?node-id=0-1&p=f&t=k7MhQ4SLSWMtYAVY-0)
