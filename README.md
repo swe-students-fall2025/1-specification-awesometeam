@@ -51,4 +51,4 @@ This is the diagram of the third user requirement: "As a savvy traveler, I want 
 
 ## Clickable Prototype
 
-[clickable prototype] (https://www.figma.com/design/sA0vzezLxU3Zei5LZVRHD9/WireFrame-Diagram?node-id=0-1&p=f&t=k7MhQ4SLSWMtYAVY-0)
+[clickable prototype](https://www.figma.com/design/sA0vzezLxU3Zei5LZVRHD9/WireFrame-Diagram?node-id=0-1&p=f&t=k7MhQ4SLSWMtYAVY-0)
