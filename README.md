@@ -133,7 +133,7 @@ This is the diagram of the third user requirement: "As a savvy traveler, I want 
 ![Diagram 1](img/swe_project1_img1.png)
 
 This is the diagram of the thirteenth user requirement: "As a spontaneous traveler who doesn’t want to spend much time on planning, I want the app to automatically optimize my routes and recommend nearby attractions in real time so that I can save time."
-![Diagram 2](IMG_3087.jpeg)
+![Diagram 2](img/swe_project1_img2.jpeg)
 
 
 ## Clickable Prototype
