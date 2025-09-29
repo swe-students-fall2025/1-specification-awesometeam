@@ -7,7 +7,7 @@ A little exercise to get started with the specification phase of the software de
 - [JunHao Chen](https://github.com/JunHaoChen16)
 - [Maria Lee](https://github.com/MariaLuo826)
 - [Ivan Wang](https://github.com/Ivan-Wang-tech)
-- [qiexian-mf](https://github.com/qiexian-mf)
+- [Kaiyuan Wu](https://github.com/qiexian-mf)
 - [Serena Wang](https://github.com/serena0615)
 
 ## Stakeholders
