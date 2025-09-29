@@ -132,8 +132,12 @@ Our vision is to design a mobile app that helps travelers plan multi-day trips b
 This is the diagram of the third user requirement: "As a savvy traveler, I want the app to suggest the most cost-efficient hotels for my trip and show me all possible reward activities so that I can maximize savings and benefits."
 ![Diagram 1](img/swe_project1_img1.png)
 
+This is the diagram of the sixth user requirement: "As a traveler who travels with my friends, I want to create a shared trip itinerary so that my friends can see and edit the travel plan."
+![Diagram 2](img/swe_project1_img3.jpeg)
+
 This is the diagram of the thirteenth user requirement: "As a spontaneous traveler who doesn’t want to spend much time on planning, I want the app to automatically optimize my routes and recommend nearby attractions in real time so that I can save time."
-![Diagram 2](img/swe_project1_img2.jpeg)
+![Diagram 3](img/swe_project1_img2.jpeg)
+
 
 
 ## Clickable Prototype
