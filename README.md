@@ -122,9 +122,9 @@ Our vision is to design a mobile app that helps travelers plan multi-day trips b
 16. As a traveler who often travels with friends, I want the app to send reminders for bookings (flights, trains, hotels) so that we don’t miss deadlines or pay higher prices.
 17. As a traveler exploring new destinations, I want the app to provide offline access to my itinerary and maps so that I can still navigate without internet connection.
 18. As a traveler who values efficiency, I want the app to suggest optimized travel routes that combine attractions and transport options so that I can save both time and energy.
-19. As a traveler, I want to be able to access public transport schedules.
-20. As a traveler, I want access to affordable and safe accommodations.
-21. As a traveler, I want a detailed travel itinerary that creates a tight schedule so I can maximize my time during the trip in a new country.
+19. As a traveler, I want to be able to access public transport schedules so I can know the optimal time to leave a location.
+20. As a solo traveler, I want access to affordable and safe accommodations that are within my budget.
+21. As a traveler, I want a detailed travel itinerary that creates a tight schedule so I can maximize my time during a trip in a new country.
 22. As a traveler, I want to create itineraries for my trip in multiple locations all at once.
 
 ## Activity Diagrams
