@@ -12,86 +12,91 @@ A little exercise to get started with the specification phase of the software de
 
 ## Stakeholders
 
-1. Lucy Murph
+### 1. Lucy Murph
 
-Background: Retired state-owned enterprise engineer
-Age: 64
-Location: CA
-Family: Lives with his wife
-Lifestyle: Enjoys light exercises; would like to take domestic or international trips on a monthly basis
+- **Background:**
+    - Retired state-owned enterprise engineer
+    - Age: 64
+    - Location: CA
+    - Family: Lives with his wife
+    - Lifestyle: Enjoys light exercises; would like to take domestic or international trips on a monthly basis
 
-Frustrations:
-1. Online travel guides are cluttered and rarely tailored to seniors.
-2. Experienced a sudden closure of airports or scenic spots with no backup plans.
-3. Traditional maps use small fonts and complicated menus, which are user-unfriendly to seniors
-4. Unstable internet connection, losing navigation when needed
+- **Frustrations:** 
+    - Online travel guides are cluttered and rarely tailored to seniors.
+    - Experienced a sudden closure of airports or scenic spots with no backup plans.
+    - Traditional maps use small fonts and complicated menus, which are user-unfriendly to seniors
+    - Unstable internet connection, losing navigation when needed
 
-Desire:
-1. Prefer relaxing and comfortable trip itineraries with cafes and restaurants nearby for a break.
-2. Plan 7-day trips with his wife, with clear daily schedules including sightseeing, meals, and rest times.
-3. Share daily plans easily with his friends/families so that they can easily know where he is, ensuring safety
-Minimize fatigue by avoiding complex transfers while travelling
+- **Desires:**
+    - Prefer relaxing and comfortable trip itineraries with cafes and restaurants nearby for a break.
+    - Plan 7-day trips with his wife, with clear daily schedules including sightseeing, meals, and rest times.
+    - Share daily plans easily with his friends/families so that they can easily know where he is, ensuring safety
+    - Minimize fatigue by avoiding complex transfers while travelling
 
-2. Ziyi Zhang
+### 2. Ziyi Zhang
 
-Background: A recently graduated international student from China. He recently started working at an AI Infrastructure company. His side job is freelance photographer. Ziyi enjoys traveling during weekends and holidays, especially to destinations close to nature or places with iconic landmarks. He enjoys capturing scenery and unique local sights with his camera. His mbti is infp. 
-Age: 27
+- **Background:**
+    - A recently graduated international student from China. He recently started working at an AI Infrastructure company. His side job is freelance photographer. Ziyi enjoys traveling during weekends and holidays, especially to destinations close to nature or places with iconic landmarks. He enjoys capturing scenery and unique local sights with his camera. His mbti is infp. 
+    - Age: 27
 
-Frustrations:
-1. Need to optimize routes manually which often leads to spending too much time and energy
-2. Switching between multiple apps (maps, travel guides, and etc.) is time consuming
+- **Frustrations:** 
+    - Need to optimize routes manually which often leads to spending too much time and energy
+    - Switching between multiple apps (maps, travel guides, and etc.) is time consuming
 
-Needs:
-1. budget-friendly trips without spending too much money.
-Discover natural attractions
-2. View iconic landmarks
+- **Desires:**
+    - budget-friendly trips without spending too much money.
+    - Discover natural attractions
+    - View iconic landmarks
 
-3. Johnny Zhang
+### 3. Johnny Zhang
 
-Background: UWM undergraduate students who like to travel with his friends, most of them are in different states. 
-Age: 20
+- **Background:**
+    - UWM undergraduate students who like to travel with his friends, most of them are in different states. 
+    - Age: 20
 
-Frustrations:
-Schedule conflicts between friends
-Some trip participants may have budgets issue
+- **Frustrations:** 
+    - Schedule conflicts between friends
+    - Some trip participants may have budgets issue
 
-Needs:
-1. Shared itinerary tool where all trip participants can view and edit the travel plan together
-2. Voting features allows the group to quickly decide destination
-3. Calculate per person cost for all activities
+- **Desires:**
+    - Shared itinerary tool where all trip participants can view and edit the travel plan together
+    - Voting features allows the group to quickly decide destination
+    - Calculate per person cost for all activities
 
-4. Binjie Zhao
+### 4. Binjie Zhao
 
-Background: Binjie Zhao is a senior undergraduate student majoring in Mathematics at New York University. He      enjoys traveling during school breaks and public holidays, often exploring new cities or scenic spots with friends. Since he is still a student, he is budget-conscious and wants to save money while ensuring trips are fun and well-organized. He prefers apps that can help him and his friends plan together efficiently.
-Age: 21
+- **Background:**
+    - Binjie Zhao is a senior undergraduate student majoring in Mathematics at New York University. He      enjoys traveling during school breaks and public holidays, often exploring new cities or scenic spots with friends. Since he is still a student, he is budget-conscious and wants to save money while ensuring trips are fun and well-organized. He prefers apps that can help him and his friends plan together efficiently.
+    - Age: 21
 
-Frustrations:
-1. Often overspends because he cannot track expenses during trips.
-2. Finds it difficult to coordinate with friends since everyone uses different tools.
-3. Needs to constantly switch between apps (maps, notes, ticket apps) which wastes time.
-4. Sometimes misses good budget deals because he doesn’t know when to book transport or hotels.
+- **Frustrations:** 
+    - Often overspends because he cannot track expenses during trips.
+    - Finds it difficult to coordinate with friends since everyone uses different tools.
+    - Needs to constantly switch between apps (maps, notes, ticket apps) which wastes time.
+    - Sometimes misses good budget deals because he doesn’t know when to book transport or hotels.
 
-Needs:
-1. Create a detailed travel plan that combines maps, schedules, and attractions.
-2. Set a budget range for each trip and get cost estimates in advance.
-3. Share and edit travel itineraries with friends to coordinate plans.
-4. Find affordable accommodations, transport, and food options conveniently.
+- **Desires:**
+    - Create a detailed travel plan that combines maps, schedules, and attractions.
+    - Set a budget range for each trip and get cost estimates in advance.
+    - Share and edit travel itineraries with friends to coordinate plans.
+    - Find affordable accommodations, transport, and food options conveniently.
 
-5. Anna Meyer 
+### 5. Anna Meyer 
 
-Background: First time solo traveling after graduating University. Hopes to visit as many new places as possible on this new journey before starting a corporate life.
-Age: 23
+- **Background:**
+    - First time solo traveling after graduating University. Hopes to visit as many new places as possible on this new journey before starting a corporate life.
+    - Age: 23
 
-Frustrations: 
-1. Difficulty in finding affordable accommodations that are safe
-2. Lack of schedule for public transportation
-3. Nonoptimal itineraries that wastes large amounts of time and money
+- **Frustrations:** 
+    - Difficulty in finding affordable accommodations that are safe
+    - Lack of schedule for public transportation
+    - Nonoptimal itineraries that wastes large amounts of time and money
 
-Desires:
-1. Recommendations of affordable and safe accommodations
-2. Clear and detailed itinerary 
-3. Optimized routes to visit as many new places as possible
-Functionality to plan long trips in different locations
+- **Desires:**
+    - Recommendations of affordable and safe accommodations
+    - Clear and detailed itinerary 
+    - Optimized routes to visit as many new places as possible
+    - Functionality to plan long trips in different locations
 
 ## Product Vision Statement
 
